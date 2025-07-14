@@ -7,6 +7,7 @@ Welcome to my keylogger project. The purpose of this project to design a keylogg
 2. You can create an text file for it to output to, but that is completely optional since the program will create one.
 3. Run the program and be amazed.
 4. Once finished, stop the program and open the output file to view results.
+
 Credit: [buildwithpython](https://www.youtube.com/playlist?list=PLhTjy8cBISEoYoJd-zR8EV0NqDddAjK3m)
 
 
