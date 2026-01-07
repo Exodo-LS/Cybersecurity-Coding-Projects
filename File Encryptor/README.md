@@ -47,6 +47,6 @@ Error handling for wrong passwords
 
 Once finished, check for the encrypted file in your directory.
 
-This project was developed as part of a cybersecurity learning initiative to understand encryption fundamentals and secure file protection methods.
+### This project was developed as part of a cybersecurity learning initiative to understand encryption fundamentals and secure file protection methods.
 
 ### This project is not intended to be used maliciously. If you do that, shame on you. >:(
