@@ -9,17 +9,17 @@ The program provides an interactive menu to create file checksums and verify fil
 
 ### Features:
 
-Calculate file checksums (MD5, SHA-256, SHA-512)
+* Calculate file checksums (MD5, SHA-256, SHA-512)
 
-Store checksums in a database
+* Store checksums in a database
 
-Verify file integrity by comparing checksums
+* Verify file integrity by comparing checksums
 
-Detect if files have been modified
+* Detect if files have been modified
 
-Export integrity reports
+* Export integrity reports
 
-Monitor multiple files at once
+* Monitor multiple files at once
 
 ### Steps to use:
 
@@ -41,17 +41,17 @@ Monitor multiple files at once
 
 ### Security Features:
 
-SHA-256 hashing (cryptographically secure)
+* SHA-256 hashing (cryptographically secure)
 
-Persistent checksum storage
+* Persistent checksum storage
 
-Timestamp tracking
+* Timestamp tracking
 
-Modification detection
+* Modification detection
 
-JSON database for easy management
+* JSON database for easy management
 
-Support for multiple hash algorithms
+* Support for multiple hash algorithms
 
 Once finished, check the integrity_database.json file to view all stored checksums.
 
