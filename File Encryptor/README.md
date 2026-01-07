@@ -9,13 +9,13 @@ The program provides an interactive menu to encrypt and decrypt files using AES-
 
 ### Features:
 
-Encrypt files with a strong password
+* Encrypt files with a strong password
 
-Decrypt encrypted files
+* Decrypt encrypted files
 
-View file information
+* View file information
 
-Persistent storage with salt included in encrypted files
+* Persistent storage with salt included in encrypted files
 
 ### Steps to use:
 
@@ -35,15 +35,15 @@ Persistent storage with salt included in encrypted files
 
 ### Security Features:
 
-AES-256 encryption (Fernet)
+* AES-256 encryption (Fernet)
 
-PBKDF2 key derivation with 100,000 iterations
+* PBKDF2 key derivation with 310,000 iterations
 
-Random salt generation and storage
+* Random salt generation and storage
 
-Password confirmation on creation
+* Password confirmation on creation
 
-Error handling for wrong passwords
+* Error handling for wrong passwords
 
 Once finished, check for the encrypted file in your directory.
 
