@@ -55,6 +55,6 @@ Support for multiple hash algorithms
 
 Once finished, check the integrity_database.json file to view all stored checksums.
 
-This project was developed as part of a cybersecurity learning initiative to understand file integrity verification and intrusion detection methods.
+### This project was developed as part of a cybersecurity learning initiative to understand file integrity verification and intrusion detection methods.
 
 ### This project is not intended to be used maliciously. If you do that, shame on you. >:(
