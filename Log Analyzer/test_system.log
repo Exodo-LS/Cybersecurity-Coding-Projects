@@ -1,0 +1,109 @@
+Jan  6 08:15:23 server01 sshd[1234]: Connection closed by authenticating user root 192.168.1.50 port 22 [preauth]
+Jan  6 08:16:45 server01 kernel[5678]: segmentation fault in process apache2
+Jan  6 08:17:12 server01 sshd[1235]: Failed password for invalid user admin from 203.0.113.5 port 43210 ssh2
+Jan  6 08:18:33 server01 sudo[1236]: user denied permission to execute command
+Jan  6 08:19:05 server01 systemd[1]: Started SSH daemon
+Jan  6 08:20:11 server01 kernel[5679]: Permission denied accessing /proc/mem
+Jan  6 08:21:45 server01 apache2[1237]: File /var/www/html/config.php not found
+Jan  6 08:22:10 server01 sshd[1238]: authentication failure for user mysql from 198.51.100.25 port 41231
+Jan  6 08:23:22 server01 sshd[1239]: Invalid user test from 192.0.2.100 port 38234 ssh2
+Jan  6 08:24:33 server01 kernel[5680]: kernel error in memory management subsystem
+Jan  6 08:25:44 server01 sshd[1240]: root login attempt from 203.0.113.15 denied password authentication
+Jan  6 08:26:55 server01 systemd[1]: sshd.service started successfully
+Jan  6 08:27:10 server01 sshd[1241]: SSH connection closed by 192.168.1.75 too many authentication attempts
+Jan  6 08:28:21 server01 apache2[1242]: Request processed successfully from 192.168.1.80
+Jan  6 08:29:32 server01 kernel[5681]: segmentation fault in process postgres
+Jan  6 08:30:43 server01 sshd[1243]: Failed password for invalid user oracle from 198.51.100.50 port 39283
+Jan  6 08:31:54 server01 cron[1244]: Running scheduled backup task
+Jan  6 08:32:15 server01 sudo[1245]: user www-data denied permission in sudoers
+Jan  6 08:33:26 server01 sshd[1246]: Connection accepted from 192.168.1.20
+Jan  6 08:34:37 server01 kernel[5682]: Permission denied opening /etc/shadow
+Jan  6 08:35:48 server01 apache2[1247]: File /var/www/html/index.html not found (404)
+Jan  6 08:36:59 server01 sshd[1248]: authentication failure for user postgres from 203.0.113.35 port 44321
+Jan  6 08:37:10 server01 systemd[1]: Restart completed successfully
+Jan  6 08:38:21 server01 sshd[1249]: Invalid user admin from 192.0.2.150 port 35712 ssh2
+Jan  6 08:39:32 server01 kernel[5683]: kernel error detected in filesystem driver
+Jan  6 08:40:43 server01 sshd[1250]: root password authentication denied for 203.0.113.45
+Jan  6 08:41:54 server01 apache2[1251]: Service running normally
+Jan  6 08:42:15 server01 sshd[1252]: SSH port scan detected from 198.51.100.75
+Jan  6 08:43:26 server01 cron[1253]: Backup job started
+Jan  6 08:44:37 server01 sudo[1254]: user denied permission to restart service
+Jan  6 08:45:48 server01 sshd[1255]: Connection established from 192.168.1.30
+Jan  6 08:46:59 server01 kernel[5684]: segmentation fault in systemd process
+Jan  6 08:47:10 server01 sshd[1256]: Failed password for invalid user test from 203.0.113.55 port 41234
+Jan  6 08:48:21 server01 apache2[1257]: File database.conf not found
+Jan  6 08:49:32 server01 sshd[1258]: authentication failure in PAM module
+Jan  6 08:50:43 server01 systemd[1]: Starting database service
+Jan  6 08:51:54 server01 sshd[1259]: Invalid user backup from 192.0.2.200 port 37890 ssh2
+Jan  6 08:52:15 server01 kernel[5685]: Permission denied executing /sbin/modprobe
+Jan  6 08:53:26 server01 sshd[1260]: root denied password access from 198.51.100.100
+Jan  6 08:54:37 server01 apache2[1261]: Configuration loaded successfully
+Jan  6 08:55:48 server01 sshd[1262]: portscan attempted from 203.0.113.65
+Jan  6 08:56:59 server01 cron[1263]: Daily maintenance tasks executed
+Jan  6 08:57:10 server01 sudo[1264]: user denied permission in sudoers file
+Jan  6 08:58:21 server01 sshd[1265]: SSH closed by 192.168.1.40 too many failed logins
+Jan  6 08:59:32 server01 kernel[5686]: segmentation fault in network driver
+Jan  6 09:00:43 server01 sshd[1266]: Failed password for invalid user root from 203.0.113.75 port 42567
+Jan  6 09:01:54 server01 apache2[1267]: SSL certificate loaded for *.example.com
+Jan  6 09:02:15 server01 sshd[1268]: authentication failure for user nobody from 198.51.100.125 port 38765
+Jan  6 09:03:26 server01 systemd[1]: Service restarted after failure
+Jan  6 09:04:37 server01 sshd[1269]: Invalid user guest from 192.0.2.250 port 36543 ssh2
+Jan  6 09:05:48 server01 kernel[5687]: kernel error in USB subsystem detected
+Jan  6 09:06:59 server01 sshd[1270]: root password denied for 203.0.113.85
+Jan  6 09:07:10 server01 apache2[1271]: Service health check passed
+Jan  6 09:08:21 server01 sshd[1271]: port scan activity detected from 192.0.2.50
+Jan  6 09:09:32 server01 cron[1272]: Hourly cleanup job initiated
+Jan  6 09:10:43 server01 sudo[1273]: user denied permission to modify system settings
+Jan  6 09:11:54 server01 sshd[1272]: SSH closed too many authentication attempts
+Jan  6 09:12:15 server01 kernel[5688]: segmentation fault in memory allocator
+Jan  6 09:13:26 server01 sshd[1273]: Failed password for invalid user mysql from 203.0.113.95 port 43890
+Jan  6 09:14:37 server01 apache2[1274]: Cache cleared for performance optimization
+Jan  6 09:15:48 server01 sshd[1274]: authentication failure detected in login attempt
+Jan  6 09:16:59 server01 systemd[1]: All services operational
+Jan  6 09:17:10 server01 sshd[1275]: Invalid user test from 198.51.100.150 port 39876 ssh2
+Jan  6 09:18:21 server01 kernel[5689]: Permission denied accessing kernel memory
+Jan  6 09:19:32 server01 sshd[1276]: root password denied login from 203.0.113.105
+Jan  6 09:20:43 server01 apache2[1275]: Service stability report: normal
+Jan  6 09:21:54 server01 sshd[1277]: portscan detected from 192.0.2.100
+Jan  6 09:22:15 server01 cron[1276]: Database optimization task running
+Jan  6 09:23:26 server01 sudo[1277]: user denied permission to execute privileged command
+Jan  6 09:24:37 server01 sshd[1278]: SSH connection too many closed by client
+Jan  6 09:25:48 server01 kernel[5690]: segmentation fault in crypt module
+Jan  6 09:26:59 server01 sshd[1279]: Failed password for invalid user oracle from 203.0.113.115 port 44123
+Jan  6 09:27:10 server01 apache2[1276]: Request queue size normal
+Jan  6 09:28:21 server01 sshd[1280]: authentication failure in ssh key verification
+Jan  6 09:29:32 server01 systemd[1]: Database service status healthy
+Jan  6 09:30:43 server01 sshd[1281]: Invalid user admin from 198.51.100.175 port 40234 ssh2
+Jan  6 09:31:54 server01 kernel[5691]: kernel error in interrupt handler
+Jan  6 09:32:15 server01 sshd[1282]: root password access denied from 203.0.113.125
+Jan  6 09:33:26 server01 apache2[1277]: Active connections within limits
+Jan  6 09:34:37 server01 sshd[1283]: port scan attempt from 192.0.2.150
+Jan  6 09:35:48 server01 cron[1278]: Weekly maintenance completed successfully
+Jan  6 09:36:59 server01 sudo[1279]: user denied permission to modify sudoers
+Jan  6 09:37:10 server01 sshd[1284]: SSH too many connection attempts closed
+Jan  6 09:38:21 server01 kernel[5692]: segmentation fault in socket handler
+Jan  6 09:39:32 server01 sshd[1285]: Failed password for invalid user backup from 203.0.113.135 port 45678 ssh2
+Jan  6 09:40:43 server01 apache2[1278]: Service metrics exported successfully
+Jan  6 09:41:54 server01 sshd[1286]: authentication failure for postgres account
+Jan  6 09:42:15 server01 systemd[1]: All critical services confirmed running
+Jan  6 09:43:26 server01 sshd[1287]: Invalid user guest from 198.51.100.200 port 41567 ssh2
+Jan  6 09:44:37 server01 kernel[5693]: Permission denied writing to kernel log
+Jan  6 09:45:48 server01 sshd[1288]: root password denied connection from 203.0.113.145
+Jan  6 09:46:59 server01 apache2[1279]: Disk space check completed normal
+Jan  6 09:47:10 server01 sshd[1289]: portscan detected malicious activity
+Jan  6 09:48:21 server01 cron[1280]: Email notification job triggered
+Jan  6 09:49:32 server01 sudo[1281]: user denied system administration access
+Jan  6 09:50:43 server01 sshd[1290]: SSH closed excessive authentication failures
+Jan  6 09:51:54 server01 kernel[5694]: segmentation fault in device driver
+Jan  6 09:52:15 server01 sshd[1291]: Failed password for invalid user admin from 203.0.113.155 port 46789
+Jan  6 09:53:26 server01 apache2[1280]: Backup completed successfully
+Jan  6 09:54:37 server01 sshd[1292]: authentication failure in credential validation
+Jan  6 09:55:48 server01 systemd[1]: Process cleanup completed
+Jan  6 09:56:59 server01 sshd[1293]: Invalid user test from 192.0.2.200 port 42890 ssh2
+Jan  6 09:57:10 server01 kernel[5695]: kernel error in page table handler
+Jan  6 09:58:21 server01 sshd[1294]: root password denied from 203.0.113.165
+Jan  6 09:59:32 server01 apache2[1281]: Memory usage within acceptable range
+Jan  6 10:00:43 server01 sshd[1295]: port scan detected from suspicious source
+Jan  6 10:01:54 server01 cron[1282]: Scheduled maintenance started
+Jan  6 10:02:15 server01 sudo[1283]: user denied privileged file access
+Jan  6 10:03:26 server01 sshd[1296]: SSH too many failed attempts connection reset
