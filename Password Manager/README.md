@@ -4,7 +4,7 @@ Welcome to my password manager project. The purpose of this project is to design
 
 ## How to use
 
-### password_manager.py:
+### password_manager.py
 
 Before running, make sure you do `pip install cryptography`
 
