@@ -7,7 +7,7 @@ Before running, make sure you do pip install cryptography
 
 The program provides an interactive menu to encrypt and decrypt files using AES-256 encryption with PBKDF2 key derivation.
 
-Features:
+### Features:
 
 Encrypt files with a strong password
 
@@ -17,23 +17,23 @@ View file information
 
 Persistent storage with salt included in encrypted files
 
-Steps to use:
+### Steps to use:
 
-Run the program with python3 file_encryptor.py
+1. Run the program with python3 file_encryptor.py
 
-Select option 1 to encrypt a file
+2. Select option 1 to encrypt a file
 
-Enter the file path you want to encrypt
+3. Enter the file path you want to encrypt
 
-Create a strong password (8+ characters)
+4. Create a strong password (8+ characters)
 
-Confirm your password
+5. Confirm your password
 
-Your file will be encrypted with .encrypted extension
+6. Your file will be encrypted with .encrypted extension
 
-To decrypt, select option 2 and enter the encrypted file path and password
+7. To decrypt, select option 2 and enter the encrypted file path and password
 
-Security Features:
+### Security Features:
 
 AES-256 encryption (Fernet)
 
@@ -50,4 +50,4 @@ Once finished, check for the encrypted file in your directory.
 Credit
 This project was developed as part of a cybersecurity learning initiative to understand encryption fundamentals and secure file protection methods.
 
-This project is not intended to be used maliciously. If you do that, shame on you. >:(
+### This project is not intended to be used maliciously. If you do that, shame on you. >:(
